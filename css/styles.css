@@ -1,4 +1,8 @@
 .logo-link:hover,
 .logo-link:focus {
-    
+    color: gold
+}
+
+.logo-link:active {
+    color: grey;
 }

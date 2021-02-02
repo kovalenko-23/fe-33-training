@@ -1,8 +1,8 @@
-.logo-link:hover,
-.logo-link:focus {
-    color: gold
+.icon-link:hover,
+.icon-link:focus {
+    color: green;
 }
 
-.logo-link:active {
-    color: grey;
+.icon-link:active {
+    color: indigo;
 }
